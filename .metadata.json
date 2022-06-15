@@ -1,0 +1,26 @@
+[
+  {
+    "package": "ecotraj",
+    "oncran": true
+  },
+  {
+    "package": "indicspecies",
+    "oncran": true
+  },
+  {
+    "package": "medfate",
+    "oncran": true
+  },
+  {
+    "package": "meteoland",
+    "oncran": true
+  },
+  {
+    "package": "meteospain",
+    "oncran": true
+  },
+  {
+    "package": "vegclust",
+    "oncran": true
+  }
+]
