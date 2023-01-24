@@ -8,10 +8,6 @@
     "oncran": true
   },
   {
-    "package": "medfate",
-    "oncran": true
-  },
-  {
     "package": "meteoland",
     "oncran": true
   },

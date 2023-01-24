@@ -13,11 +13,6 @@
 	url = https://github.com/emf-creaf/indicspecies
 	shallow = true
 	registered = true
-[submodule "medfate"]
-	path = medfate
-	url = https://github.com/emf-creaf/medfate
-	shallow = true
-	registered = true
 [submodule "meteoland"]
 	path = meteoland
 	url = https://github.com/emf-creaf/meteoland
