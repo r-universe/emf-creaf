@@ -18,5 +18,8 @@
   {
     "package": "vegclust",
     "oncran": true
+  },
+  {
+    "package": "medfate"
   }
 ]

@@ -28,3 +28,8 @@
 	url = https://github.com/emf-creaf/vegclust
 	shallow = true
 	registered = true
+[submodule "medfate"]
+	path = medfate
+	url = https://github.com/emf-creaf/medfate
+	shallow = true
+	registered = true
