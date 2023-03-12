@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "medfate",
+    "oncran": true
+  },
+  {
     "package": "meteoland",
     "oncran": true
   },
@@ -18,8 +22,5 @@
   {
     "package": "vegclust",
     "oncran": true
-  },
-  {
-    "package": "medfate"
   }
 ]
