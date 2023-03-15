@@ -1,6 +1,14 @@
 [
   {
-    "package": "ecotraj",
+    "package": "meteospain",
+    "oncran": true
+  },
+  {
+    "package": "vegclust",
+    "oncran": true
+  },
+  {
+    "package": "meteoland",
     "oncran": true
   },
   {
@@ -12,15 +20,7 @@
     "oncran": true
   },
   {
-    "package": "meteoland",
-    "oncran": true
-  },
-  {
-    "package": "meteospain",
-    "oncran": true
-  },
-  {
-    "package": "vegclust",
+    "package": "ecotraj",
     "oncran": true
   }
 ]
