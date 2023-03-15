@@ -3,19 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "meteospain"]
-	path = meteospain
-	url = https://github.com/emf-creaf/meteospain
-	shallow = true
-	registered = true
-[submodule "vegclust"]
-	path = vegclust
-	url = https://github.com/emf-creaf/vegclust
-	shallow = true
-	registered = true
-[submodule "meteoland"]
-	path = meteoland
-	url = https://github.com/emf-creaf/meteoland
+[submodule "ecotraj"]
+	path = ecotraj
+	url = https://github.com/emf-creaf/ecotraj
 	shallow = true
 	registered = true
 [submodule "indicspecies"]
@@ -28,8 +18,18 @@
 	url = https://github.com/emf-creaf/medfate
 	shallow = true
 	registered = true
-[submodule "ecotraj"]
-	path = ecotraj
-	url = https://github.com/emf-creaf/ecotraj
+[submodule "meteoland"]
+	path = meteoland
+	url = https://github.com/emf-creaf/meteoland
+	shallow = true
+	registered = true
+[submodule "meteospain"]
+	path = meteospain
+	url = https://github.com/emf-creaf/meteospain
+	shallow = true
+	registered = true
+[submodule "vegclust"]
+	path = vegclust
+	url = https://github.com/emf-creaf/vegclust
 	shallow = true
 	registered = true
