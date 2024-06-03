@@ -11,6 +11,9 @@
 [submodule "medfate"]
 	path = medfate
 	url = https://github.com/emf-creaf/medfate
+[submodule "medfateland"]
+	path = medfateland
+	url = https://github.com/emf-creaf/medfateland
 [submodule "meteoland"]
 	path = meteoland
 	url = https://github.com/emf-creaf/meteoland
